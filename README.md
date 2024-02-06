@@ -1,2 +1,2 @@
-This script will work for uploading and downloading or presign.
-We need to provie s3 buckets name and or path.
+This script will work for uploading and downloading or presign the s3 buckets.
+While run this script it will ask for access key or secret key, and when proce about s3 buckut we need to provie s3 buckets name and or path.
